@@ -123,6 +123,26 @@ Open the local URL printed by Vite, usually `http://localhost:5173`.
 
 The core storefront, shopping cart, product API, and signup/login functionality are implemented. Deployment and production configuration are the next steps.
 
+## Live Demo
+
+- **Frontend:** https://pinkcart-store.vercel.app
+- **Backend API:** https://pinkcart-backend.onrender.com
+- **GitHub Repository:** https://github.com/alina01washim-aw/week4-web-development-assignments
+
+### Deployment
+
+- Frontend deployed on Vercel
+- Backend deployed on Render
+- Database hosted on MongoDB Atlas
+
+### Features Verified
+
+- User registration and login
+- Product listing from the backend API
+- Add to cart and quantity management
+- Cart total calculation
+- Logout functionality
+
 ## Author
 
 **Alina Washim**
