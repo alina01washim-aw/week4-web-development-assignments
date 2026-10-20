@@ -1,5 +1,6 @@
-
-require("./dns");
+if (process.env.NODE_ENV !== "production") {
+  require("./dns");
+}
 
 const express = require("express");
 const cors = require("cors");
